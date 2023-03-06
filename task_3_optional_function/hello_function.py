@@ -5,7 +5,7 @@ def hello_function():
 
 def my_function_with_args(name, surname):
 
-    print("Hello, it's me, %s %s"%(Lucyna, Zieciowska))
+    print("Hello, it's me, %s %s"%(name, surname))
 
 
 def sum_two_numbers(a, b):
