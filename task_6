@@ -1,0 +1,48 @@
+provider "google" {
+  project = "august-craft-376622"
+  region  = "us-central1"
+  zone    = "us-central1-c"
+}
+
+resource "google_storage_bucket" "default" {
+  name                       = "lucy1231bucket"
+  location                   = "us-central1"
+  storage_class              = "REGIONAL"
+  uniform_bucket_level_access = true
+  public_access_prevention   = "unspecified"
+}
+
+resource "google_compute_instance" "appserver" {
+  name         = "instancja1lucy"
+  machine_type = "n1-standard-1"
+  zone         = "us-central1-a"
+
+  boot_disk {
+    initialize_params {
+      image = "debian-cloud/debian-10"
+    }
+  }
+
+  network_interface {
+    network = "default"
+  }
+
+  metadata_startup_script = "sudo apt-get update && sudo apt-get install -y apache2 && sudo service apache2 start"
+}
+resource "google_sql_database_instance" "main" {
+  name             = "dareit"
+  region           = "us-central1"
+  database_version = "POSTGRES_14"
+
+  settings {
+    tier = "db-f1-micro"
+  }
+  }
+
+
+resource "google_sql_user" "dareit_user" {
+  name     = "dareit_user"
+ instance = google_sql_database_instance.main.name
+  password = "zupazupa123"
+}
+
