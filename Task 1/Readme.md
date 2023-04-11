@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Setting up an environment
 
 This task was concentrated on prepering an environment and making first interaction with programs via commads. 
