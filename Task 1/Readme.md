@@ -11,7 +11,7 @@ Dowloading code editor
 --> Visual Code Studio
 
 Creating the account on GCP
----> [![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+---> [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
 
 ## Interacting with GCP
 
