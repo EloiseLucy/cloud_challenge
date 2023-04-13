@@ -4,11 +4,11 @@ This task was concentrated on prepering an environment and making first interact
 
 ## The first step included:
 
-Setting upthe repository via:
-:arrow_right: [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Setting upthe repository 
+ [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 Dowloading and interacting with code editor:
-:arrow_right: [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 Creating the account on GCP
 :arrow_right: [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
@@ -16,4 +16,6 @@ Creating the account on GCP
 ## Second step Interacting with GCP
 
 :arrow_right: Cloud Shell
+
+
 :arrow_right: Enabling Compute API on GCP
