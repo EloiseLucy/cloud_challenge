@@ -6,18 +6,18 @@ This task was concentrated on prepering an environment and making first interact
 
 ## The first step included:
 
-Creating a local and remote repository 
---> GitHub & GitHub Desktop
+Setting upthe repository 
+:arrow_right: GitHub & GitHub Desktop
 
 Dowloading code editor
---> Visual Code Studio
+:arrow_right: Visual Code Studio
 
 Creating the account on GCP
----> [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+:arrow_right: [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
 
 ## Interacting with GCP
 
 Second step concentrated on: 
----> Cloud Shell
+:arrow_right: Cloud Shell
 
 Enabling Compute API on GCP
