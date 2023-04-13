@@ -1,23 +1,19 @@
-<base target="_blank">
-
 # Setting up an environment
 
 This task was concentrated on prepering an environment and making first interaction with programs via commads. 
 
 ## The first step included:
 
-Setting upthe repository 
-:arrow_right: GitHub & GitHub Desktop
+Setting upthe repository via:
+:arrow_right: [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-Dowloading code editor
-:arrow_right: Visual Code Studio
+Dowloading and interacting with code editor:
+:arrow_right: [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 Creating the account on GCP
 :arrow_right: [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
 
-## Interacting with GCP
+## Second step Interacting with GCP
 
-Second step concentrated on: 
 :arrow_right: Cloud Shell
-
-Enabling Compute API on GCP
+:arrow_right: Enabling Compute API on GCP
