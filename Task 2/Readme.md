@@ -1,17 +1,11 @@
 # Static website
 
-This task was concentrated on prepering an environment and making first interaction with programs via commads. 
+This task was concentrated on hosting and creating static website stored on Google Cloud Storage bucket.
 
 ## The first step included:
 
- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Setting upthe repository 
- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) Creating file by using [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) Dowloading and interacting with code editor:
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com) Creating the account on GCP
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
 
 ## Second step was interacting with GCP
 
