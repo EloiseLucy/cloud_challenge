@@ -13,9 +13,14 @@ This task was concentrated on prepering an environment and making first interact
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com) Creating the account on GCP
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
 
-## Second step Interacting with GCP
+## Second step were focused on interacting with GCP
 
-:arrow_right: Cloud Shell
+:arrow_right: Creating first project on GCP
+
+:arrow_right: Enabling Compute API
+
+:arrow_right: Via Cloud Shell finding a command for enlisting all enabled services in my new project via Cloud Shell
+
+:arrow_right: Commiting and pushing respond from the cloud shell to remote repository
 
 
-:arrow_right: Enabling Compute API on GCP
